@@ -1,0 +1,44 @@
+.navbar{
+    background-color: #134576;
+    padding: 0px;
+}
+
+.logoItStep{
+    width: 50px;
+    height: 50px;
+    margin-left: 13px;
+}
+.itStep-a{
+    background-color: #1e6ebe;
+}
+
+.achievements-nav{
+    color: goldenrod;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.coins{
+    color: rgb(77, 214, 50);
+    font-weight: bold;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.points{
+    color: rgb(186, 120, 189);
+    font-weight: bold;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.crystals{
+    color: rgb(91, 192, 231);
+    font-weight: bold;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.nav-icon{
+    margin-left: 5px;
+}

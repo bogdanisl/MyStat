@@ -1,0 +1,10 @@
+.super-card{
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
+
+.card-img-top{
+    width: 60px;
+    height: 60px;
+}
